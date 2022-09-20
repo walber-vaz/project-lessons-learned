@@ -1,10 +1,18 @@
 body {
-  background-color: rgb(253, 251, 251); 
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: rgb(253, 251, 251);
 }
 
 #cabecalho {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: fixed;
   top: 0;
+  background-color: rgb(0, 0, 0);
+  width: 100%;
 }
 
 p {
