@@ -11,7 +11,7 @@ body {
   align-items: center;
   position: fixed;
   top: 0;
-  background-color: rgb(0, 0, 0);
+  background-color: lightgreen;
   width: 100%;
 }
 
@@ -20,4 +20,18 @@ p {
   color: rgb(12, 10, 20);
   line-height: 1.5;
   font-family: Helvetica, sans-serif;
+}
+
+.lado-esquerdo {
+  display: block;
+  float: left;
+  width: 300px;
+  height: 100px;
+}
+
+.lado-direito {
+  display: block;
+  float: right;
+  width: 300px;
+  height: 100px;
 }
