@@ -1,6 +1,6 @@
 body {
   background-color: rgb(253, 251, 251);
-  font-family: Helvetica, sans-serif;
+  
 }
 
 #cabecalho {
@@ -10,8 +10,7 @@ body {
 
  p {
   font-size: 18px;
-  color: rgb( 12, 10, 20);
+  color: rgb(12, 10, 20);
   line-height: 1.5;
-  font-family: Arial;
- }
- 
+  font-family: Helvetica, sans-serif;
+}
