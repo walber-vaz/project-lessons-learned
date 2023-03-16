@@ -21,7 +21,7 @@
   "devDependencies": {
     "cypress": "^5.0.0",
     "cypress-multi-reporters": "^1.2.3",
-    "minimist": ">=1.2.2",
+    "minimist": ">=1.2.6",
     "mocha": "^7.0.1",
     "mochawesome": "^4.1.0",
     "mochawesome-merge": "^4.0.0",
